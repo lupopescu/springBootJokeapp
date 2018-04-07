@@ -1,4 +1,4 @@
-package guru.springframework.joke.app;
+package guru.springframework.joke.model;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 

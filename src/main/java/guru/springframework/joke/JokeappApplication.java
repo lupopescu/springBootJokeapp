@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 
 @SpringBootApplication
 
-@ComponentScan(value={"guru.springframework.joke.app",
+@ComponentScan(value={"guru.springframework.joke.model",
         "guru.springframework.joke.controllers",
         "guru.springframework.joke.services","guru.springframework.norris.chuck.ChuckNorrisQuotes"},basePackageClasses=JokeClontroller.class)
 public class JokeappApplication {
